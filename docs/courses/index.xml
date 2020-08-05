@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cursos on Ensino Emergencial Remoto</title>
+    <link>/ere/courses/</link>
+    <description>Recent content in Cursos on Ensino Emergencial Remoto</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;&lt;img alt=&#34;Creative Commons License&#34; style=&#34;border-width:0&#34; src=&#34;https://i.creativecommons.org/l/by-sa/4.0/88x31.png&#34; /&gt;&lt;/a&gt;&lt;br /&gt;This work is licensed under a &lt;a rel=&#34;license&#34; href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.</copyright>
+    
+	    <atom:link href="/ere/courses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>GIS e Análise Espacial para Ciências Sociais</title>
+      <link>/ere/courses/gis/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ere/courses/gis/</guid>
+      <description>&lt;h2 id=&#34;objetivos-de-aprendizagem&#34;&gt;Objetivos de aprendizagem&lt;/h2&gt;
+&lt;p&gt;Esta disciplina tem por objetivo formar estudantes aptos a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discutir conceitos, princípios e fundamentos da Gestão da Qualidade de maneira argumentativa;&lt;/li&gt;
+&lt;li&gt;Identificar, selecionar e implementar ferramentas de Gestão da Qualidade em níveis estratégico, tático e operacional;&lt;/li&gt;
+&lt;li&gt;Relacionar componentes da Gestão da Qualidade de forma integrada;&lt;/li&gt;
+&lt;li&gt;Analisar de maneira crítica processos de Implementação e Gestão pela Qualidade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apresentação-do-curso-e-boas-vindas-aos-alunos&#34;&gt;Apresentação do curso e boas vindas aos alunos&lt;/h2&gt;
+&lt;p&gt;Diante do contexto de distanciamento social imposto pela pandemia da Covid-19, o CEFET-MG adotou o Ensino Remoto Emergencial (ERE) como forma de promover a reaproximação entre a instituição e seus alunos, instituindo as atividades didático-pedagógicas não presenciais pelo tempo que se fizer necessário.&lt;/p&gt;
+&lt;p&gt;O ERE pode ser compreendido como “um conjunto de estratégias didático-pedagógicas mediadas ou não por tecnologias digitais”. Entende-se por “remoto” o distanciamento geográfico, no caso, imposto pelo quadro de contágio da Covid-19. O caráter emergencial deve ser compreendido na sua excepcionalidade, por um lado, por se tratar de uma medida que, em caráter de urgência, procura minimizar o impacto da pandemia na formação acadêmica de nossos estudantes e por outro, devido à sua temporalidade, restrito ao tempo em que estivermos sobre restrições sanitárias que impeçam o retorno normal e presencial das atividades acadêmicas.&lt;/p&gt;
+&lt;p&gt;Além dos desafios objetivos impostos pela pandemia SARS-CoV-2, o mundo como conhecemos está em acelerada e abrangente mudança. O avanço tecnológico, materializado por meio da internet, da realidade aumentada, da inteligência artificial, da internet das coisas, dentre outros adventos, tem promovido possibilidades de aprendizagem, ação, interação e solução de problemas reais de maneira criativa e efetiva. Ainda, a estrutura econômica atual está sendo modificada, por meio de novas relações de produção e trabalho. Essas mudanças são fruto da quarta revolução industrial estruturada por meio do uso de tecnologia para convergência entre os mundos físico, digital e biológico. Trata-se de um processo de transformação que beneficiará apenas os indivíduos e as sociedades que forem capazes de inovar e se adaptar.&lt;/p&gt;
+&lt;p&gt;Essas mudanças afetam diretamente o modelo de educação formal mais presente no Brasil. Intitulados como “nativos digitais” ou “Millennials”, crianças e jovens nascidos após a década de 1980, não conhecem o mundo sem tecnologia. O livre acesso à informação faz com que o modelo tradicional de ensino, com aulas expositivas para apresentação do conteúdo formal, não seja mais necessário. O modelo educacional deve buscar a etimologia latina da palavra “educar”, que se refere a liderar de forma a extrair o melhor que cada um tem dentro de si. O foco deve ser no indivíduo e na sua capacidade e autonomia de aprendizagem e desenvolvimento de competências.&lt;/p&gt;
+&lt;p&gt;As habilidades, o conhecimento e as competências são necessários para o sucesso pessoal e profissional. Algumas diretrizes gerais para formação no século XXI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilizar habilidades para solucionar problemas reais e globais;&lt;/li&gt;
+&lt;li&gt;Aprender e trabalhar de forma cooperativa em um contexto de diferentes culturas, religiões e modo de vida. Respeitar mutuamente as diferenças, mantendo diálogo aberto nos contextos pessoal, profissional e social.&lt;/li&gt;
+&lt;li&gt;Entender a cultura de outras nações, inclusive daquelas cujas línguas diferem da materna.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De maneira sintética, as competências necessárias ao profissional no século XXI são apresentadas na Tabela 1.&lt;/p&gt;
+&lt;p&gt;Tabela 1: Competências no século XXI&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Aprendizagem e inovação&lt;/th&gt;
+&lt;th&gt;Informação e tecnologia&lt;/th&gt;
+&lt;th&gt;Carreira e vida pessoal e social&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Criatividade e inovação&lt;/td&gt;
+&lt;td&gt;Acesso à informação&lt;/td&gt;
+&lt;td&gt;Flexibilidade e adaptabilidade&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pensamento crítico e solução de problemas complexos&lt;/td&gt;
+&lt;td&gt;Adaptação às mudanças tecnológicas&lt;/td&gt;
+&lt;td&gt;Iniciativa e direcionamento pessoal assertivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Comunicação e colaboração&lt;/td&gt;
+&lt;td&gt;Colaboração e contribuições individuais&lt;/td&gt;
+&lt;td&gt;Produtividade, liderança e responsabilidade&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Para promoção dessas competências por meio da educação formal, diferentes propostas metodológicas foram desenvolvidas ao longo do tempo. Parte dessas propostas pode ser classificada como &amp;ldquo;metodologias ativas&amp;rdquo; e têm como objetivo a construção do conhecimento e não apenas a noção e memorização de conceitos e técnicas. O processo passivo de participação do estudante leva à inabilidade de aplicação do conhecimento em contexto prático. Por meio dos processos pedagógicos centrados no estudante, o sujeito constrói o próprio conhecimento de forma ativa. O papel de professores e estudantes muda significativamente nessa abordagem. O professor passa a ser professor-tutor e o estudante o ator principal no processo de aprendizagem. Além disso, os estudantes desenvolvem capacidade de análise sistêmica de problemas e conseguem aplicar o que aprenderam com maior assertividade e visão sistêmica, com foco na solução dos problemas na atividade profissional.&lt;/p&gt;
+&lt;h2 id=&#34;encargos-da-disciplina&#34;&gt;Encargos da disciplina&lt;/h2&gt;
+&lt;p&gt;Os alunos deverão entregar 02 atividades semanais e participar dos momentos síncronos. O registro da frequência será realizada por meio da entrega das atividades semanais. Caso o aluno opte por não participar dos encontros síncronos, bastará a entrega das atividades semanais. Entretanto, caso os alunos não realizem a entrega de alguma das atividades, o registro da frequência será realizado pela sua presença no momento síncrono.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gestão da Qualidade</title>
+      <link>/ere/courses/qualidade/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/ere/courses/qualidade/</guid>
+      <description>&lt;h2 id=&#34;objetivos-de-aprendizagem&#34;&gt;Objetivos de aprendizagem&lt;/h2&gt;
+&lt;p&gt;Esta disciplina tem por objetivo formar estudantes aptos a:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Discutir conceitos, princípios e fundamentos da Gestão da Qualidade de maneira argumentativa;&lt;/li&gt;
+&lt;li&gt;Identificar, selecionar e implementar ferramentas de Gestão da Qualidade em níveis estratégico, tático e operacional;&lt;/li&gt;
+&lt;li&gt;Relacionar componentes da Gestão da Qualidade de forma integrada;&lt;/li&gt;
+&lt;li&gt;Analisar de maneira crítica processos de Implementação e Gestão pela Qualidade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;apresentação-do-curso-e-boas-vindas-aos-alunos&#34;&gt;Apresentação do curso e boas vindas aos alunos&lt;/h2&gt;
+&lt;p&gt;Diante do contexto de distanciamento social imposto pela pandemia da Covid-19, o CEFET-MG adotou o Ensino Remoto Emergencial (ERE) como forma de promover a reaproximação entre a instituição e seus alunos, instituindo as atividades didático-pedagógicas não presenciais pelo tempo que se fizer necessário.&lt;/p&gt;
+&lt;p&gt;O ERE pode ser compreendido como “um conjunto de estratégias didático-pedagógicas mediadas ou não por tecnologias digitais”. Entende-se por “remoto” o distanciamento geográfico, no caso, imposto pelo quadro de contágio da Covid-19. O caráter emergencial deve ser compreendido na sua excepcionalidade, por um lado, por se tratar de uma medida que, em caráter de urgência, procura minimizar o impacto da pandemia na formação acadêmica de nossos estudantes e por outro, devido à sua temporalidade, restrito ao tempo em que estivermos sobre restrições sanitárias que impeçam o retorno normal e presencial das atividades acadêmicas.&lt;/p&gt;
+&lt;p&gt;Além dos desafios objetivos impostos pela pandemia SARS-CoV-2, o mundo como conhecemos está em acelerada e abrangente mudança. O avanço tecnológico, materializado por meio da internet, da realidade aumentada, da inteligência artificial, da internet das coisas, dentre outros adventos, tem promovido possibilidades de aprendizagem, ação, interação e solução de problemas reais de maneira criativa e efetiva. Ainda, a estrutura econômica atual está sendo modificada, por meio de novas relações de produção e trabalho. Essas mudanças são fruto da quarta revolução industrial estruturada por meio do uso de tecnologia para convergência entre os mundos físico, digital e biológico. Trata-se de um processo de transformação que beneficiará apenas os indivíduos e as sociedades que forem capazes de inovar e se adaptar.&lt;/p&gt;
+&lt;p&gt;Essas mudanças afetam diretamente o modelo de educação formal mais presente no Brasil. Intitulados como “nativos digitais” ou “Millennials”, crianças e jovens nascidos após a década de 1980, não conhecem o mundo sem tecnologia. O livre acesso à informação faz com que o modelo tradicional de ensino, com aulas expositivas para apresentação do conteúdo formal, não seja mais necessário. O modelo educacional deve buscar a etimologia latina da palavra “educar”, que se refere a liderar de forma a extrair o melhor que cada um tem dentro de si. O foco deve ser no indivíduo e na sua capacidade e autonomia de aprendizagem e desenvolvimento de competências.&lt;/p&gt;
+&lt;p&gt;As habilidades, o conhecimento e as competências são necessários para o sucesso pessoal e profissional. Algumas diretrizes gerais para formação no século XXI:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilizar habilidades para solucionar problemas reais e globais;&lt;/li&gt;
+&lt;li&gt;Aprender e trabalhar de forma cooperativa em um contexto de diferentes culturas, religiões e modo de vida. Respeitar mutuamente as diferenças, mantendo diálogo aberto nos contextos pessoal, profissional e social.&lt;/li&gt;
+&lt;li&gt;Entender a cultura de outras nações, inclusive daquelas cujas línguas diferem da materna.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;De maneira sintética, as competências necessárias ao profissional no século XXI são apresentadas na Tabela 1.&lt;/p&gt;
+&lt;p&gt;Tabela 1: Competências no século XXI&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Aprendizagem e inovação&lt;/th&gt;
+&lt;th&gt;Informação e tecnologia&lt;/th&gt;
+&lt;th&gt;Carreira e vida pessoal e social&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Criatividade e inovação&lt;/td&gt;
+&lt;td&gt;Acesso à informação&lt;/td&gt;
+&lt;td&gt;Flexibilidade e adaptabilidade&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pensamento crítico e solução de problemas complexos&lt;/td&gt;
+&lt;td&gt;Adaptação às mudanças tecnológicas&lt;/td&gt;
+&lt;td&gt;Iniciativa e direcionamento pessoal assertivo&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Comunicação e colaboração&lt;/td&gt;
+&lt;td&gt;Colaboração e contribuições individuais&lt;/td&gt;
+&lt;td&gt;Produtividade, liderança e responsabilidade&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Para promoção dessas competências por meio da educação formal, diferentes propostas metodológicas foram desenvolvidas ao longo do tempo. Parte dessas propostas pode ser classificada como &amp;ldquo;metodologias ativas&amp;rdquo; e têm como objetivo a construção do conhecimento e não apenas a noção e memorização de conceitos e técnicas. O processo passivo de participação do estudante leva à inabilidade de aplicação do conhecimento em contexto prático. Por meio dos processos pedagógicos centrados no estudante, o sujeito constrói o próprio conhecimento de forma ativa. O papel de professores e estudantes muda significativamente nessa abordagem. O professor passa a ser professor-tutor e o estudante o ator principal no processo de aprendizagem. Além disso, os estudantes desenvolvem capacidade de análise sistêmica de problemas e conseguem aplicar o que aprenderam com maior assertividade e visão sistêmica, com foco na solução dos problemas na atividade profissional.&lt;/p&gt;
+&lt;h2 id=&#34;instrumentos-de-aprendizagem-na-disciplina&#34;&gt;Instrumentos de aprendizagem na disciplina&lt;/h2&gt;
+&lt;p&gt;Esta disciplina será estruturada conforme unidades de ensino e com periodicidade em ciclos semanais. Propõe-se, com foco nos objetivos de aprendizagem centrados no estudante, as componentes apresentadas na Tabela 2.&lt;/p&gt;
+&lt;p&gt;Tabela 2: Estrutura Semanal da disciplina&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Componente&lt;/th&gt;
+&lt;th&gt;Meio&lt;/th&gt;
+&lt;th&gt;Objetivo&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Material e conteúdo diversificado&lt;/td&gt;
+&lt;td&gt;Vídeos, textos, quizzes, tutoriais&lt;/td&gt;
+&lt;td&gt;Orientar estudantes na construção de conhecimento teórico e reflexão sobre conceitos, princípios e técnica&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Checkpoints - Situações-problema e atividades de verificação&lt;/td&gt;
+&lt;td&gt;Vídeos, textos, quizzes, tutoriais&lt;/td&gt;
+&lt;td&gt;Foco na aprendizagem baseada em problemas&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tarefas preliminares (sala de aula invertida)&lt;/td&gt;
+&lt;td&gt;Vídeos, textos, quizzes, tutoriais&lt;/td&gt;
+&lt;td&gt;Instrumentos de provocação e reflexão quanto aos componentes da disciplina que serão discutidos nos encontros síncronos. Foco na capacidade de discussão, argumentação, interação e colaboração.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Encontros síncronos com o professor-tutor&lt;/td&gt;
+&lt;td&gt;Plataforma com link para reunião&lt;/td&gt;
+&lt;td&gt;Alinhamento de conceitos, princípios e técnicas, de forma sistemática, às propostas iniciais previstas na estrutura curricular da disciplina.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;encargos-da-disciplina&#34;&gt;Encargos da disciplina&lt;/h2&gt;
+&lt;p&gt;Os alunos deverão entregar 02 atividades semanais e participar dos momentos síncronos. O registro da frequência será realizada por meio da entrega das atividades semanais. Caso o aluno opte por não participar dos encontros síncronos, bastará a entrega das atividades semanais. Entretanto, caso os alunos não realizem a entrega de alguma das atividades, o registro da frequência será realizado pela sua presença no momento síncrono.&lt;/p&gt;
+&lt;h2 id=&#34;instrumentos-de-avaliação&#34;&gt;Instrumentos de avaliação&lt;/h2&gt;
+&lt;p&gt;A proposta avaliativa para esta disciplina é fundamentada nos objetivos de aprendizagem de cada componente.  Assim, as atividades, bem como pontuação, foram distribuídos por semanas. Toda semana será pontuada, não sendo necessário provas ao longo da disciplina. Semanalmente, os alunos terão 02 atividades: os CHECKPOINTS e as TAREFAS PRELIMINARES.  Os checkpoints serão momentos de verificação do conteúdo assimilado pelo aluno na semana, podendo ser apresentados na forma de fóruns, quizzes ou situações-problema. Já as TAREFAS PRELIMINARES são atividades preliminares que farão o aluno perceber o conteúdo que será ministrado na semana que ainda não se iniciou. Essas tarefas podem ser a gravação de um pequeno vídeo, uma foto, participação em fóruns, etc. A carga de trabalho está estruturada para fomentar a proposta de aprendizagem centrada no estudante. Em todas as atividades semanais, foram propostas rubricas (critérios) de avaliação para as atividades estruturadas.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Atividades&lt;/th&gt;
+&lt;th&gt;Número de atividades&lt;/th&gt;
+&lt;th&gt;Pontos unitários&lt;/th&gt;
+&lt;th&gt;Pontos totais&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Tarefas preliminares&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;2&lt;/td&gt;
+&lt;td&gt;28&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Checkpoints-padrão&lt;/td&gt;
+&lt;td&gt;9&lt;/td&gt;
+&lt;td&gt;4&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Checkpoints alternativos&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;6&lt;/td&gt;
+&lt;td&gt;36&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;condições-para-aprovação-no-curso&#34;&gt;Condições para aprovação no curso&lt;/h2&gt;
+&lt;p&gt;Para serem aprovados, cada aluno deve ter, no mínimo:&lt;/p&gt;
+&lt;p&gt;75% de cumprimento da carga horária da disciplina, E&lt;br&gt;
+60 pontos&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
